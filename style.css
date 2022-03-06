@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+    font: size 100px;
+    font-weight: bold;
+    background-color: pink;
+    text-align: center;
+    
+}
+
+h2 {
+    color: black;
+    text-align: left;
+    background-color:pink;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h3 {
+    color: black;
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
